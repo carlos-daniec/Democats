@@ -21,3 +21,12 @@ adding more information here
 | Firstname | Lastname | Email |
 | --------- | -------- | ----- |
 | Carlos    | Daniec   | carlosdaniec@gmail.com |
+
+
+```mermaid
+graph TD;
+A-->B;
+A-->C;
+B-->D;
+C-->D;
+```
