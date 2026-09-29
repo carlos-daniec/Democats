@@ -20,3 +20,4 @@ adding more information here
 
 | Firstname | Lastname | Email |
 | --------- | -------- | ----- |
+| Carlos    | Daniec   | carlosdaniec@gmail.com |
